@@ -1,2 +1,7 @@
 # TBA
-projet python jeu 
+projet python jeu
+
+## Développeurs
+
+- Yoan
+- Louis
