@@ -4,4 +4,4 @@ projet python jeu
 ## Développeurs
 
 - Yoan
-- Louis
+- Louis le boss
